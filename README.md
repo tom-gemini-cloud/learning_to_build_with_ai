@@ -1,2 +1,3 @@
-# building-apps-with-ai
-My journey towards learning how to build AI applications.
+# Learning to Build Applications with AI
+----------------------------------------
+## 🚀 My journey towards learning how to build AI applications.
